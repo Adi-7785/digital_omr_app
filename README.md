@@ -8,4 +8,4 @@ In competitive exams, OMR sheets are often used for recording responses of candi
 We as candidates need to well aware of this fact and also practice so we don't end up losing marks for silly mistakes.
 This app imitates phusical OMR sheet but even more so, you can go on checking your responses.
 
-🎉🙌🏻🙌🎉
+🎉🙌🙌🎉
